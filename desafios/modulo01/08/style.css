@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+li:hover {
+    color: red;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    background-color: aqua;
+}
